@@ -19,10 +19,10 @@ Betik, Python standart kütüphanesi (`re`) dışında harici bir bağımlılık
 
 1.  Projeyi yerel makinenize klonlayınız veya dosyaları indiriniz:
     ```bash
-    git clone [https://github.com/kullanici-adiniz/repo-adiniz.git](https://github.com/kullanici-adiniz/repo-adiniz.git)
-    cd repo-adiniz
+    git clone [https://github.com/enesdolgun33/IpTables-Log-Searcher](https://github.com/enesdolgun33/IpTables-Log-Searcher)
+    cd IpTables-Log-Searcher
     ```
-    *(Not: Yukarıdaki URL adresini kendi GitHub depo adresiniz ile güncelleyiniz.)*
+   
 
 2.  Analiz edilecek `ipTables.log` dosyasının, betik dosyası (`ipTables-Log-Searcher.py`) ile aynı dizinde bulunduğundan emin olunuz. (Depoda test amacıyla örnek bir `ipTables.log` dosyası mevcuttur.)
 
