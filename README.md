@@ -19,7 +19,7 @@ Betik, Python standart kütüphanesi (`re`) dışında harici bir bağımlılık
 
 1.  Projeyi yerel makinenize klonlayınız veya dosyaları indiriniz:
     ```bash
-    git clone [https://github.com/enesdolgun33/IpTables-Log-Searcher](https://github.com/enesdolgun33/IpTables-Log-Searcher)
+    git clone [https://github.com/enesdolgun10/IpTables-Log-Searcher](https://github.com/enesdolgun33/IpTables-Log-Searcher)
     cd IpTables-Log-Searcher
     ```
    
